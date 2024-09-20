@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on Wishlistz Project
 
-- 🌱 I’m currently learning **MERN-STACK**
+- 🌱 I’m currently learning **DevOps**
 
 - 🤝 I’m looking for Internship **Yes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SuryaNaryananDev?tab=repositories](https://github.com/SuryaNaryananDev?tab=repositories)
 
-- 📝 Connect on LinkedIn [ghyi](ghyi)
+- 📝 Connect on LinkedIn [https://www.linkedin.com/in/surya-narayanan-3949282a1/](Click)
 
 - 💬 Ask me about **HTML&CSS , JS ,MongoDB .Etc**
 
