@@ -15,11 +15,9 @@
 
 - 📝 Connect on LinkedIn [https://www.linkedin.com/in/surya-narayanan-3949282a1/](Click)
 
-- 💬 Ask me about **HTML&CSS , JS ,MongoDB .Etc**
+- 💬 Ask me about **JS,MongoDB,JSON,API MANg,Redux,REACT||NEXT.js .Etc**
 
 - 📫 How to reach me **suryavignesh6238@gmail.com**
-
-- 📄 My Portfolio [https://suryanarayanans.netlify.app/](https://suryanarayanans.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
