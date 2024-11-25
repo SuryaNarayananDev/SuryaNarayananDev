@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking for Internship **Yes**
 
+- 😁 Resume - https://drive.google.com/file/d/1-F-wYcWLeWmZldjv7W8y_6X-2Mrg5IBU/view?usp=drive_link
+
 - 👨‍💻 All of my projects are available at [https://github.com/SuryaNaryananDev?tab=repositories](https://github.com/SuryaNaryananDev?tab=repositories)
 
 - 📝 Connect on LinkedIn [https://www.linkedin.com/in/surya-narayanan-3949282a1/](Click)
