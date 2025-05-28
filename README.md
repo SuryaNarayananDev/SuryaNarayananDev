@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm SURYANARAYANAN S</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm SURYANARAYANAN S</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanaryanandev&label=Profile%20views&color=0e75b6&style=flat" alt="suryanaryanandev" /> </p>
+<h3 align="left">
 Hey there! I’m Suryanarayanan, a 21-year-old tech enthusiast obsessed with building scalable, high-performance web apps. Rocking the MERN stack, I love crafting full-stack solutions with slick, responsive UIs and rock-solid backend systems that run like flawlessly. Lately, I’ve been geeking out over machine learning, AI-powered tools, and cloud tech—using them to create smarter, next-level apps that tap into the power of modern networks. Always hungry to learn and experiment, I’m all about building clean, secure, and optimized software that solves real problems and pushes the limits of what’s possible.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanaryanandev&label=Profile%20views&color=0e75b6&style=flat" alt="suryanaryanandev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on REsearcH-W Project
-
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on Personal Projects and Learning **DevOps**
 
 - 🤝 I’m looking for Internship **Yes**
 
-- 😁 Resume - https://drive.google.com/file/d/1-F-wYcWLeWmZldjv7W8y_6X-2Mrg5IBU/view?usp=drive_link
+- 💁‍♂️ Profestional Hobbies -<br>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Blunderer Amateur rocketry 🚀<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Professional Error-Prone CubeSat Builder 🛰️<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Glitchy Game Developer 🎮<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ racquet breaker 🏸<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ SpaceScience 👨‍🚀<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Blasting IOT Device Creater 💣<p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SuryaNaryananDev?tab=repositories](https://github.com/SuryaNaryananDev?tab=repositories)
+- 😁 Resume - Loading....
+  
+- 📝 Connect on [LinkedIn](https://www.linkedin.com/in/surya-narayanan-dev-67-ctr)
 
-- 📝 Connect on LinkedIn [https://www.linkedin.com/in/surya-narayanan-3949282a1/](Click)
-
-- 💬 Ask me about **JS,MongoDB,JSON,API MANg,Redux,REACT||NEXT.js .Etc**
+- 💬 Ask me about ** JS, Express , MongoDB , JSON , API MANg , Redux , REACT || NEXT.js .Etc**
 
 - 📫 How to reach me **suryavignesh6238@gmail.com**
 
