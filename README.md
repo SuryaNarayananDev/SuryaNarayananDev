@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm SURYANARAYANAN S</h1>
-<h3 align="center">Hello, I'm Suryanarayanan, a 20-year-old with an unwavering passion for web development. Being captivated by the dynamic and ever-evolving world of the internet, I have delved into the realm of coding to craft meaningful and engaging online experiences. From the intricate design of user interfaces to the robust functionality of web applications, I find joy in bringing ideas to life through lines of code. I'm on a constant journey of learning and exploration, seeking to stay at the forefront of technological advancements in the web development landscape. Excited about the endless possibilities the digital realm offers, I am dedicated to honing my skills and contributing to the ever-expanding digital landscape.</h3>
+<h3 align="center">
+Hey there! I’m Suryanarayanan, a 21-year-old tech enthusiast obsessed with building scalable, high-performance web apps. Rocking the MERN stack, I love crafting full-stack solutions with slick, responsive UIs and rock-solid backend systems that run like flawlessly. Lately, I’ve been geeking out over machine learning, AI-powered tools, and cloud tech—using them to create smarter, next-level apps that tap into the power of modern networks. Always hungry to learn and experiment, I’m all about building clean, secure, and optimized software that solves real problems and pushes the limits of what’s possible.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanaryanandev&label=Profile%20views&color=0e75b6&style=flat" alt="suryanaryanandev" /> </p>
 
