@@ -1,7 +1,12 @@
 <h1 align="left">Hi 👋, I'm SURYANARAYANAN S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanaryanandev&label=Profile%20views&color=0e75b6&style=flat" alt="suryanaryanandev" /> </p>
 <h3 align="left">
-Hey there! I’m Suryanarayanan, a 21-year-old tech enthusiast obsessed with building scalable, high-performance web apps. Rocking the MERN stack, I love crafting full-stack solutions with slick, responsive UIs and rock-solid backend systems that run like flawlessly. Lately, I’ve been geeking out over machine learning, AI-powered tools, and cloud tech—using them to create smarter, next-level apps that tap into the power of modern networks. Always hungry to learn and experiment, I’m all about building clean, secure, and optimized software that solves real problems and pushes the limits of what’s possible.
+Hey there! I’m Suryanarayanan, a 21-year-old tech enthusiast obsessed with building scalable,<br>
+high-performance web apps. Rocking the MERN stack, I love crafting full-stack solutions with slick,<br>
+responsive UIs and rock-solid backend systems that run like flawlessly. Lately, I’ve been geeking out<br>
+over machine learning, AI-powered tools, and cloud tech—using them to create smarter, next-level apps<br> 
+that tap into the power of modern networks. Always hungry to learn and experiment, I’m all about<br>
+building clean, secure, and optimized software that solves real problems and pushes the limits of what’s possible.
 </h3>
 
 
@@ -17,9 +22,9 @@ Hey there! I’m Suryanarayanan, a 21-year-old tech enthusiast obsessed with bui
                 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Glitchy Game Developer 🎮<p>
                 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ racquet breaker 🏸<p>
                 <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ SpaceScience 👨‍🚀<p>
-                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Blasting IOT Device Creater 💣<p>
+                <p>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Blasting IOT Device Creator 💣<p>
 
-- 😁 Resume - Loading....
+- 😁 Portfolio - Loading....
   
 - 📝 Connect on [LinkedIn](https://www.linkedin.com/in/surya-narayanan-dev-67-ctr)
 
