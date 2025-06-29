@@ -12,7 +12,7 @@ building clean, secure, and optimized software that solves real problems and pus
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Personal Projects and Learning **DevOps**
+- 🔭 I’m currently working on Personal Projects and Learning **DSA**
 
 - 🤝 I’m looking for Internship **Yes**
 
