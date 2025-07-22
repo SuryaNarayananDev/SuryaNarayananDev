@@ -26,7 +26,7 @@ building clean, secure, and optimized software that solves real problems and pus
 
 - 😁 Portfolio - [Hit it](https://suryanarayanans.netlify.app/)
   
-- 📝 Connect on [LinkedIn](https://www.linkedin.com/in/surya-narayanan-dev-67-ctr)
+- 📝 Connect on [LinkedIn](https://www.linkedin.com/in/suryanarayanandev67/)
 
 - 💬 Ask me about ** JS, Express , MongoDB , JSON , API MANg , Redux , REACT || NEXT.js .Etc**
 
